@@ -19,7 +19,7 @@
 ### [소개영상](https://www.youtube.com/watch?v=EF7-sXY-yzU)
 ***
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/EF7-sXY-yzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/EF7-sXY-yzU/0.jpg)](https://www.youtube.com/watch?v=EF7-sXY-yzU)
 
 <br><br>
 
